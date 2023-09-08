@@ -1,1 +1,1 @@
-This is the training session on the git version control
+This is the training session on the git version control git 
